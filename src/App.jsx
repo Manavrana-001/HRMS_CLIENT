@@ -1,5 +1,5 @@
 import {BrowserRouter,Routes,Route} from "react-router-dom";
-import Panel from "./component/Admin/Panel";
+import Panel from "./component/Admin/panel";
 import Login from "./component/LoginPage/login" 
 import Signup from "./component/SignUpPage/Signup";
 import Dashboard from "./component/Admin/dashboard";
